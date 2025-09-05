@@ -1,4 +1,3 @@
-@echo off
 cd ..
 cd documents
 mkdir Optimizacion
@@ -27,4 +26,5 @@ cd ..
 cd notebook
 type nul > Prueba.ipynb
 cd ..
+
 code .
